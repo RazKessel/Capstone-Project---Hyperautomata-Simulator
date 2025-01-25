@@ -76,9 +76,9 @@ The repository is divided into two main branches:
    git checkout main
    ```
 2. Explore the following files:
-   - **Project Book Phase A**: `Capstone Project Phase A- 24-2-R-20`
-   - **Project Book Phase B**: `Capstone Project Phase B- 24-2-R-20`
-   - **Presentation slides Phase A**: `Capstone Project Phase A- 24-2-R-20.ppx`
+   - **Project Book Phase A**: `Capstone Project Phase A- 24-2-R-20.pdf`
+   - **Project Book Phase B**: `Capstone Project Phase B- 24-2-R-20.pdf`
+   - **Presentation slides Phase A**: `Capstone Project Phase A- 24-2-R-20.pptx`
    - **Poster**: `poster.pdf`
    - **Demo Video**: `demo.mp4`
 
