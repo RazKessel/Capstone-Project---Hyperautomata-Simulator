@@ -96,11 +96,5 @@ The repository is divided into two main branches:
 
 ---
 
----
-
-## **Contact**
-For further inquiries, please contact the project team or refer to the documentation in the `main` branch.
-
----
 
 Enjoy exploring the world of asynchronous hyperautomata with our simulator!
