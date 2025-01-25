@@ -1,0 +1,237 @@
+2025-01-22 13:35:47,883 - INFO - Initializing LoginFrame.
+2025-01-22 13:35:49,899 - INFO - Application started.
+2025-01-22 13:35:49,905 - INFO - AutomataManager initialized.
+2025-01-22 13:35:49,905 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:35:49,907 - INFO - DrawingBoard initialized.
+2025-01-22 13:35:49,920 - INFO - Tool button added: Add State
+2025-01-22 13:35:49,923 - INFO - Tool button added: Add Transition
+2025-01-22 13:35:49,924 - INFO - Tool button added: Selection
+2025-01-22 13:35:49,947 - INFO - WordsFrame initialized.
+2025-01-22 13:35:49,953 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 13:35:49,953 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 13:35:49,954 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 13:35:49,954 - INFO - Main BFS GUI built successfully.
+2025-01-22 13:35:49,975 - INFO - Transition created: q0 -> q1
+2025-01-22 13:35:50,159 - INFO - Database initialized.
+2025-01-22 13:35:50,164 - INFO - Database initialized.
+2025-01-22 13:35:50,171 - INFO - User created: test_user
+2025-01-22 13:35:50,178 - INFO - DrawingBoard initialized.
+2025-01-22 13:35:50,183 - INFO - DrawingBoard initialized.
+2025-01-22 13:35:50,330 - INFO - AutomataManager initialized.
+2025-01-22 13:35:50,333 - INFO - AutomataManager initialized.
+2025-01-22 13:35:50,334 - INFO - State added: q0
+2025-01-22 13:35:50,336 - INFO - AutomataManager initialized.
+2025-01-22 13:35:50,336 - INFO - State added: q0
+2025-01-22 13:35:50,336 - INFO - State added: q1
+2025-01-22 13:35:50,336 - INFO - Transition created: q0 -> q1
+2025-01-22 13:35:50,336 - INFO - Transition added: q0 -> q1
+2025-01-22 13:35:50,340 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:35:50,344 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:35:50,344 - INFO - Word added: test
+2025-01-22 13:35:50,346 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:35:50,347 - INFO - Backend Manager initialized.
+2025-01-22 13:35:50,347 - WARNING - No start state in automata. Emptied history.
+2025-01-22 13:38:52,051 - INFO - Initializing LoginFrame.
+2025-01-22 13:38:52,063 - INFO - LoginFrame widgets initialized.
+2025-01-22 13:38:52,299 - INFO - Application started.
+2025-01-22 13:38:52,304 - INFO - AutomataManager initialized.
+2025-01-22 13:38:52,304 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:38:52,305 - INFO - DrawingBoard initialized.
+2025-01-22 13:38:52,317 - INFO - Tool button added: Add State
+2025-01-22 13:38:52,318 - INFO - Tool button added: Add Transition
+2025-01-22 13:38:52,322 - INFO - Tool button added: Selection
+2025-01-22 13:38:52,343 - INFO - WordsFrame initialized.
+2025-01-22 13:38:52,348 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 13:38:52,349 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 13:38:52,349 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 13:38:52,349 - INFO - Main BFS GUI built successfully.
+2025-01-22 13:38:52,369 - INFO - Transition created: q0 -> q1
+2025-01-22 13:38:52,421 - INFO - Database initialized.
+2025-01-22 13:38:52,426 - INFO - Database initialized.
+2025-01-22 13:38:52,435 - INFO - User created: test_user
+2025-01-22 13:38:52,441 - INFO - DrawingBoard initialized.
+2025-01-22 13:38:52,448 - INFO - DrawingBoard initialized.
+2025-01-22 13:38:52,467 - INFO - AutomataManager initialized.
+2025-01-22 13:38:52,469 - INFO - AutomataManager initialized.
+2025-01-22 13:38:52,469 - INFO - State added: q0
+2025-01-22 13:38:52,471 - INFO - AutomataManager initialized.
+2025-01-22 13:38:52,472 - INFO - State added: q0
+2025-01-22 13:38:52,472 - INFO - State added: q1
+2025-01-22 13:38:52,472 - INFO - Transition created: q0 -> q1
+2025-01-22 13:38:52,472 - INFO - Transition added: q0 -> q1
+2025-01-22 13:38:52,477 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:38:52,483 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:38:52,483 - INFO - Word added: test
+2025-01-22 13:38:52,486 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:38:52,487 - INFO - Backend Manager initialized.
+2025-01-22 13:38:52,487 - WARNING - No start state in automata. Emptied history.
+2025-01-22 13:47:52,583 - INFO - Initializing LoginFrame.
+2025-01-22 13:47:52,589 - INFO - LoginFrame widgets initialized.
+2025-01-22 13:47:52,701 - INFO - Application started.
+2025-01-22 13:47:52,703 - INFO - AutomataManager initialized.
+2025-01-22 13:47:52,703 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:47:52,704 - INFO - DrawingBoard initialized.
+2025-01-22 13:47:52,709 - INFO - Tool button added: Add State
+2025-01-22 13:47:52,710 - INFO - Tool button added: Add Transition
+2025-01-22 13:47:52,712 - INFO - Tool button added: Selection
+2025-01-22 13:47:52,722 - INFO - WordsFrame initialized.
+2025-01-22 13:47:52,724 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 13:47:52,725 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 13:47:52,725 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 13:47:52,725 - INFO - Main BFS GUI built successfully.
+2025-01-22 13:47:52,733 - INFO - Transition created: q0 -> q1
+2025-01-22 13:47:52,775 - INFO - Database initialized.
+2025-01-22 13:47:52,783 - INFO - Database initialized.
+2025-01-22 13:47:52,790 - INFO - User created: test_user
+2025-01-22 13:47:52,796 - INFO - DrawingBoard initialized.
+2025-01-22 13:47:52,802 - INFO - DrawingBoard initialized.
+2025-01-22 13:47:52,820 - INFO - AutomataManager initialized.
+2025-01-22 13:47:52,822 - INFO - AutomataManager initialized.
+2025-01-22 13:47:52,822 - INFO - State added: q0
+2025-01-22 13:47:52,824 - INFO - AutomataManager initialized.
+2025-01-22 13:47:52,824 - INFO - State added: q0
+2025-01-22 13:47:52,824 - INFO - State added: q1
+2025-01-22 13:47:52,824 - INFO - Transition created: q0 -> q1
+2025-01-22 13:47:52,824 - INFO - Transition added: q0 -> q1
+2025-01-22 13:47:52,828 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:47:52,832 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:47:52,832 - INFO - Word added: test
+2025-01-22 13:47:52,835 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:47:52,835 - INFO - Backend Manager initialized.
+2025-01-22 13:47:52,835 - WARNING - No start state in automata. Emptied history.
+2025-01-22 13:58:55,021 - INFO - Initializing LoginFrame.
+2025-01-22 13:58:55,027 - INFO - LoginFrame widgets initialized.
+2025-01-22 13:58:55,130 - INFO - Application started.
+2025-01-22 13:58:55,132 - INFO - AutomataManager initialized.
+2025-01-22 13:58:55,133 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:58:55,133 - INFO - DrawingBoard initialized.
+2025-01-22 13:58:55,139 - INFO - Tool button added: Add State
+2025-01-22 13:58:55,140 - INFO - Tool button added: Add Transition
+2025-01-22 13:58:55,142 - INFO - Tool button added: Selection
+2025-01-22 13:58:55,152 - INFO - WordsFrame initialized.
+2025-01-22 13:58:55,155 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 13:58:55,155 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 13:58:55,155 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 13:58:55,155 - INFO - Main BFS GUI built successfully.
+2025-01-22 13:58:55,167 - INFO - Transition created: q0 -> q1
+2025-01-22 13:58:55,208 - INFO - Database initialized.
+2025-01-22 13:58:55,212 - INFO - Database initialized.
+2025-01-22 13:58:55,221 - INFO - User created: test_user
+2025-01-22 13:58:55,227 - INFO - DrawingBoard initialized.
+2025-01-22 13:58:55,237 - INFO - DrawingBoard initialized.
+2025-01-22 13:58:55,259 - INFO - AutomataManager initialized.
+2025-01-22 13:58:55,263 - INFO - AutomataManager initialized.
+2025-01-22 13:58:55,264 - INFO - State added: q0
+2025-01-22 13:58:55,268 - INFO - AutomataManager initialized.
+2025-01-22 13:58:55,268 - INFO - State added: q0
+2025-01-22 13:58:55,268 - INFO - State added: q1
+2025-01-22 13:58:55,268 - INFO - Transition created: q0 -> q1
+2025-01-22 13:58:55,269 - INFO - Transition added: q0 -> q1
+2025-01-22 13:58:55,274 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:58:55,281 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:58:55,281 - INFO - Word added: test
+2025-01-22 13:58:55,284 - INFO - RunManager initialized for user: test_user
+2025-01-22 13:58:55,284 - INFO - Backend Manager initialized.
+2025-01-22 13:58:55,284 - WARNING - No start state in automata. Emptied history.
+2025-01-22 16:54:31,983 - INFO - Initializing LoginFrame.
+2025-01-22 16:54:31,992 - INFO - LoginFrame widgets initialized.
+2025-01-22 16:54:32,236 - INFO - Application started.
+2025-01-22 16:54:32,243 - INFO - AutomataManager initialized.
+2025-01-22 16:54:32,243 - INFO - RunManager initialized for user: test_user
+2025-01-22 16:54:32,244 - INFO - DrawingBoard initialized.
+2025-01-22 16:54:32,270 - INFO - Tool button added: Add State
+2025-01-22 16:54:32,271 - INFO - Tool button added: Add Transition
+2025-01-22 16:54:32,275 - INFO - Tool button added: Selection
+2025-01-22 16:54:32,334 - INFO - WordsFrame initialized.
+2025-01-22 16:54:32,341 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 16:54:32,342 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 16:54:32,342 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 16:54:32,342 - INFO - Main BFS GUI built successfully.
+2025-01-22 16:54:32,387 - INFO - Transition created: q0 -> q1
+2025-01-22 16:54:32,559 - INFO - Database initialized.
+2025-01-22 16:54:32,596 - INFO - Database initialized.
+2025-01-22 16:54:32,612 - INFO - User created: test_user
+2025-01-22 16:54:32,632 - INFO - DrawingBoard initialized.
+2025-01-22 16:54:32,664 - INFO - DrawingBoard initialized.
+2025-01-22 16:54:32,736 - INFO - AutomataManager initialized.
+2025-01-22 16:54:32,749 - INFO - AutomataManager initialized.
+2025-01-22 16:54:32,749 - INFO - State added: q0
+2025-01-22 16:54:32,756 - INFO - AutomataManager initialized.
+2025-01-22 16:54:32,760 - INFO - State added: q0
+2025-01-22 16:54:32,761 - INFO - State added: q1
+2025-01-22 16:54:32,761 - INFO - Transition created: q0 -> q1
+2025-01-22 16:54:32,762 - INFO - Transition added: q0 -> q1
+2025-01-22 16:54:32,770 - INFO - RunManager initialized for user: test_user
+2025-01-22 16:54:32,783 - INFO - RunManager initialized for user: test_user
+2025-01-22 16:54:32,783 - INFO - Word added: test
+2025-01-22 16:54:32,788 - INFO - RunManager initialized for user: test_user
+2025-01-22 16:54:32,788 - INFO - Backend Manager initialized.
+2025-01-22 16:54:32,788 - WARNING - No start state in automata. Emptied history.
+2025-01-22 18:32:58,294 - INFO - Initializing LoginFrame.
+2025-01-22 18:32:58,310 - INFO - LoginFrame widgets initialized.
+2025-01-22 18:32:58,459 - INFO - Application started.
+2025-01-22 18:32:58,466 - INFO - AutomataManager initialized.
+2025-01-22 18:32:58,466 - INFO - RunManager initialized for user: test_user
+2025-01-22 18:32:58,467 - INFO - DrawingBoard initialized.
+2025-01-22 18:32:58,481 - INFO - Tool button added: Add State
+2025-01-22 18:32:58,483 - INFO - Tool button added: Add Transition
+2025-01-22 18:32:58,488 - INFO - Tool button added: Selection
+2025-01-22 18:32:58,508 - INFO - WordsFrame initialized.
+2025-01-22 18:32:58,512 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 18:32:58,512 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 18:32:58,512 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 18:32:58,512 - INFO - Main BFS GUI built successfully.
+2025-01-22 18:32:58,525 - INFO - Transition created: q0 -> q1
+2025-01-22 18:32:58,595 - INFO - Database initialized.
+2025-01-22 18:32:58,601 - INFO - Database initialized.
+2025-01-22 18:32:58,611 - INFO - User created: test_user
+2025-01-22 18:32:58,621 - INFO - DrawingBoard initialized.
+2025-01-22 18:32:58,630 - INFO - DrawingBoard initialized.
+2025-01-22 18:32:58,666 - INFO - AutomataManager initialized.
+2025-01-22 18:32:58,669 - INFO - AutomataManager initialized.
+2025-01-22 18:32:58,670 - INFO - State added: q0
+2025-01-22 18:32:58,674 - INFO - AutomataManager initialized.
+2025-01-22 18:32:58,674 - INFO - State added: q0
+2025-01-22 18:32:58,675 - INFO - State added: q1
+2025-01-22 18:32:58,675 - INFO - Transition created: q0 -> q1
+2025-01-22 18:32:58,675 - INFO - Transition added: q0 -> q1
+2025-01-22 18:32:58,680 - INFO - RunManager initialized for user: test_user
+2025-01-22 18:32:58,686 - INFO - RunManager initialized for user: test_user
+2025-01-22 18:32:58,687 - INFO - Word added: test
+2025-01-22 18:32:58,690 - INFO - RunManager initialized for user: test_user
+2025-01-22 18:32:58,690 - INFO - Backend Manager initialized.
+2025-01-22 18:32:58,691 - WARNING - No start state in automata. Emptied history.
+2025-01-22 21:02:53,150 - INFO - Initializing LoginFrame.
+2025-01-22 21:02:53,168 - INFO - LoginFrame widgets initialized.
+2025-01-22 21:02:53,453 - INFO - Application started.
+2025-01-22 21:02:53,461 - INFO - AutomataManager initialized.
+2025-01-22 21:02:53,462 - INFO - RunManager initialized for user: test_user
+2025-01-22 21:02:53,462 - INFO - DrawingBoard initialized.
+2025-01-22 21:02:53,479 - INFO - Tool button added: Add State
+2025-01-22 21:02:53,481 - INFO - Tool button added: Add Transition
+2025-01-22 21:02:53,486 - INFO - Tool button added: Selection
+2025-01-22 21:02:53,510 - INFO - WordsFrame initialized.
+2025-01-22 21:02:53,514 - INFO - CurrentSetupFrame linked to RunToolsFrame.
+2025-01-22 21:02:53,515 - INFO - WordsWindow linked to RunToolsFrame.
+2025-01-22 21:02:53,515 - INFO - ToolsPanel linked to RunToolsFrame.
+2025-01-22 21:02:53,515 - INFO - Main BFS GUI built successfully.
+2025-01-22 21:02:53,537 - INFO - Transition created: q0 -> q1
+2025-01-22 21:02:53,645 - INFO - Database initialized.
+2025-01-22 21:02:53,653 - INFO - Database initialized.
+2025-01-22 21:02:53,668 - INFO - User created: test_user
+2025-01-22 21:02:53,688 - INFO - DrawingBoard initialized.
+2025-01-22 21:02:53,707 - INFO - DrawingBoard initialized.
+2025-01-22 21:02:53,758 - INFO - AutomataManager initialized.
+2025-01-22 21:02:53,768 - INFO - AutomataManager initialized.
+2025-01-22 21:02:53,769 - INFO - State added: q0
+2025-01-22 21:02:53,781 - INFO - AutomataManager initialized.
+2025-01-22 21:02:53,782 - INFO - State added: q0
+2025-01-22 21:02:53,783 - INFO - State added: q1
+2025-01-22 21:02:53,784 - INFO - Transition created: q0 -> q1
+2025-01-22 21:02:53,785 - INFO - Transition added: q0 -> q1
+2025-01-22 21:02:53,803 - INFO - RunManager initialized for user: test_user
+2025-01-22 21:02:53,813 - INFO - RunManager initialized for user: test_user
+2025-01-22 21:02:53,813 - INFO - Word added: test
+2025-01-22 21:02:53,822 - INFO - RunManager initialized for user: test_user
+2025-01-22 21:02:53,822 - INFO - Backend Manager initialized.
+2025-01-22 21:02:53,823 - WARNING - No start state in automata. Emptied history.

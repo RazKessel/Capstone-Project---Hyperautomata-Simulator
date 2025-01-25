@@ -1,0 +1,6 @@
+2025-01-22 12:04:01,483 - ERROR - Failed to initialize backend: pop from empty list
+2025-01-22 12:04:21,525 - ERROR - Failed to initialize backend: pop from empty list
+2025-01-22 12:05:46,093 - ERROR - Failed to initialize backend: pop from empty list
+2025-01-22 13:59:39,275 - ERROR - Failed to initialize backend: cannot access local variable 'sim' where it is not associated with a value
+2025-01-22 15:14:44,236 - ERROR - Error during login for user Nevo: SelectionTool.__init__() takes 3 positional arguments but 5 were given
+2025-01-22 20:45:12,916 - ERROR - Failed to initialize backend: pop from empty list
