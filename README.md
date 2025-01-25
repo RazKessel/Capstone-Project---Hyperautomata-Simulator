@@ -38,8 +38,8 @@ The repository is divided into two main branches:
 ### **2. `main` Branch**
 - **Contents**:
   - Theoretical documentation:
-    - Project book/report.
-    - Poster summarizing the project.
+    - Project books.
+    - Poster for Phase B and Slides presentation for Phase A, summarizing the project.
   - A demo video showcasing the simulator in action.
 - **Purpose**:
   - To provide theoretical and supporting materials for understanding the project.
