@@ -79,7 +79,7 @@ The repository is divided into two main branches:
    - **Project Book Phase A**: `Capstone Project Phase A- 24-2-R-20.pdf`
    - **Project Book Phase B**: `Capstone Project Phase B- 24-2-R-20.pdf`
    - **Presentation slides Phase A**: `Capstone Project Phase A- 24-2-R-20.pptx`
-   - **Poster**: `poster.pdf`
+   - **Poster Phase B**: `poster.pdf`
    - **Demo Video**: `demo.mp4`
 
 ---
