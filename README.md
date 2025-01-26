@@ -59,7 +59,7 @@ The repository is divided into two main branches:
 ### Running the Application:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/hyperautomata-simulator.git
+   git clone https://github.com/RazKessel/Capstone-Project---Hyperautomata-Simulator.git
    ```
 2. Switch to the `master` branch:
    ```bash
